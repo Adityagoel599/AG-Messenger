@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547992971417",
+    "firebase_url": "https://ag-messenger-6d200-default-rtdb.firebaseio.com",
+    "project_id": "ag-messenger-6d200",
+    "storage_bucket": "ag-messenger-6d200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547992971417:android:7f79ca5afbbaeec99e7008",
+        "android_client_info": {
+          "package_name": "com.example.agmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547992971417-cs1vhrcrmk6k4bc2rucdhjnal3eftq3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRVCYmfBcbyrEjI-fxjbErVJ9DMXyOuLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547992971417-cs1vhrcrmk6k4bc2rucdhjnal3eftq3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
